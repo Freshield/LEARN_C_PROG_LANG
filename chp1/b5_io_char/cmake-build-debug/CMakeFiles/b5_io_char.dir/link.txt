@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/b5_io_char.dir/main.c.o  -o b5_io_char 
