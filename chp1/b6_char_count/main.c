@@ -1,6 +1,12 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
-    return 0;
+    long nc;
+
+    nc = 0;
+    while (getchar() != EOF){
+        ++nc;
+        printf("%ld\n", nc);
+    }
+
 }
