@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/b12_string_array.dir/main.c.o  -o b12_string_array 

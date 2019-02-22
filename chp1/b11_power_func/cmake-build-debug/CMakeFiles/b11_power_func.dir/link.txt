@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/b11_power_func.dir/main.c.o  -o b11_power_func 

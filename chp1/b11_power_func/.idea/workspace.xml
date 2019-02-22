@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="b10_new_array" targetName="b10_new_array" />
+      <config projectName="b11_power_func" targetName="b11_power_func" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,9 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52e0dbf9-be43-4a9c-b2d0-c2f92af66621" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    <list default="true" id="973d86cf-d4ec-4a6e-be5e-0296a66463da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../b10_new_array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../b10_new_array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b10_new_array/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../b10_new_array/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+            <state relative-caret-position="220">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -57,7 +57,9 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -85,7 +87,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="b10_new_array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="b10_new_array" TARGET_NAME="b10_new_array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="b10_new_array" RUN_TARGET_NAME="b10_new_array">
+    <configuration name="b11_power_func" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="b11_power_func" TARGET_NAME="b11_power_func" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="b11_power_func" RUN_TARGET_NAME="b11_power_func">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -96,20 +98,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="52e0dbf9-be43-4a9c-b2d0-c2f92af66621" name="Default Changelist" comment="" />
-      <created>1550816714219</created>
+      <changelist id="973d86cf-d4ec-4a6e-be5e-0296a66463da" name="Default Changelist" comment="" />
+      <created>1550817275590</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550816714219</updated>
-      <workItem from="1550816715294" duration="561000" />
+      <updated>1550817275590</updated>
+      <workItem from="1550817276666" duration="718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="561000" />
+    <option name="totallyTimeSpent" value="718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="511" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2498621" />
@@ -142,8 +145,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
