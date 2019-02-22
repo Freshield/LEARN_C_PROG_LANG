@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/b4_define_temperature.dir/main.c.o  -o b4_define_temperature 
