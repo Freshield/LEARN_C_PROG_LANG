@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/b6_char_count.dir/main.c.o  -o b6_char_count 
