@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/b8_line_count.dir/main.c.o  -o b8_line_count 

@@ -3,7 +3,8 @@
 int main() {
     double nc;
 
-    for (nc = 0; getchar() != 10; ++nc)
-        ;
+    for (nc = 0; getchar() != 10; ++nc){
+
+    }
     printf("%0.f\n", nc);
 }
