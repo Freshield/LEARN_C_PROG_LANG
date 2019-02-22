@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/b3_for_temperature.dir/main.c.o  -o b3_for_temperature 
