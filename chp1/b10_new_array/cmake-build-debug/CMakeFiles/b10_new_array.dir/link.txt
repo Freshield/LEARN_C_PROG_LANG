@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/b10_new_array.dir/main.c.o  -o b10_new_array 
