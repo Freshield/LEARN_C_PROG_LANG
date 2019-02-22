@@ -4,9 +4,9 @@ int main() {
     long nc;
 
     nc = 0;
-    while (getchar() != EOF){
+    while (getchar() != 10){
         ++nc;
-        printf("%ld\n", nc);
     }
+    printf("%ld\n", nc);
 
 }

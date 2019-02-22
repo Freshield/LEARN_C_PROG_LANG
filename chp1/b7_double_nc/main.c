@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
-    return 0;
+    double nc;
+
+    for (nc = 0; getchar() != 10; ++nc)
+        ;
+    printf("%0.f\n", nc);
 }
