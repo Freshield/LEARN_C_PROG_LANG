@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/b13_using_area.dir/main.c.o  -o b13_using_area 
