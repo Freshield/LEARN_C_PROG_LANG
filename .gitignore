@@ -53,3 +53,4 @@ log
 *.cbp
 *.o
 *.marks
+*.idea
