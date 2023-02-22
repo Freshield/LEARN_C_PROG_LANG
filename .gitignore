@@ -54,3 +54,4 @@ log
 *.o
 *.marks
 *.idea
+*.DS_Store
